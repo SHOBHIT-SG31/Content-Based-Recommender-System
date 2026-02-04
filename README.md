@@ -41,6 +41,9 @@ This system uses **feature extraction** and **similarity measures** to suggest i
     - `movies.pkl`
     - `requirements.txt`
 
+- `.gitignore`
+- `README.md`
+
 ---
 
 ## ⚙️ Installation & Setup
