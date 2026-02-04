@@ -19,7 +19,7 @@ This system uses **feature extraction** and **similarity measures** to suggest i
   - `numpy`  
   - `pandas`  
   - `scikit-learn`  
-  - `flask` (if web app)  
+  - `streamlit` (for web app)  
   - `pickle` (for saving models)
 
 ---
